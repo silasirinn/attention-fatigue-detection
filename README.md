@@ -43,8 +43,6 @@ streamlit run app.py
 ```
 Açılan tarayıcı penceresinden (genellikle `http://localhost:8501`) uygulamanızı kullanmaya başlayabilirsiniz. Kamerayı başlatmak için "Kamerayı Başlat" butonuna tıklamanız yeterlidir.
 
-## Ekran Görüntüsü
-> (Projenizi çalıştırdıktan sonra buraya arayüzden alınmış bir ekran görüntüsünü (assets/demo_images/demo1.png) ekleyebilirsiniz.)
 
 ## Gelecek Geliştirmeler
 - Elde edilen EAR ve baş pozisyonu verilerinin zaman serisi olarak kaydedilip bir **LSTM** veya **Random Forest** makine öğrenmesi modeli ile sınıflandırılması.
